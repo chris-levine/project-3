@@ -11,12 +11,15 @@
 * * Adding relative strength index
 * * etc.
 
-* Third Task
-* * Possibly merging some of these tables and other things of that nature...?
+* * Merge all the tables
 
 * Fourth Task 
 * * Reading the data in sql alchemy 
 * * Making a pandas dataframe
+* * Merge all the tables within pandas
+  * Add other columns that are easier to do within pandas
+  * * Make moving averages columns, if you don't know the formula look it up
+    * Organizing dates by month and year
 
 * Fifth Task 
 * * Start writing the report (see project rubric for requirements)
