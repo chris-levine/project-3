@@ -92,6 +92,5 @@ SELECT * FROM bitcoin LIMIT 5;
 SELECT * FROM cardano LIMIT 5;
 SELECT * FROM dogecoin LIMIT 5;
 SELECT * FROM ethereum LIMIT 5;
-SELECT * FROM ethereum LIMIT 5;
 SELECT * FROM tether LIMIT 5;
 SELECT * FROM xrp LIMIT 5;
