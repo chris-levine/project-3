@@ -23,3 +23,13 @@
 
 * Fifth Task 
 * * Start writing the report (see project rubric for requirements)
+
+
+* Abel
+* * Finish reading all of the data into pandas from sql
+  * Make sure the tables are transformed before you read them
+  * Then export them as csv files and save them to a new folder
+  * Once you are done, create a new notebook, read in all the csv files, and merge the tables
+
+* Janki
+* * Just do more visualization things they all looked great!
