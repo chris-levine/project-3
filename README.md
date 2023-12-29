@@ -33,3 +33,7 @@
 
 * Janki
 * * Just do more visualization things they all looked great!
+
+* Mark
+* * Finishing up the presentation.
+  * Creating a PowerPoint. 
